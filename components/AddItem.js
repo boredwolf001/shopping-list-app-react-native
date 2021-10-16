@@ -46,8 +46,12 @@ const styles = StyleSheet.create({
   },
   btn: {
     backgroundColor: 'darkslateblue',
-    padding: 9,
+    padding: 10,
     margin: 5,
+    borderRadius: 4,
+    marginBottom: 20,
+    width: 'max-content',
+    margin: 'auto'
   },
   btnText: {
     color: '#fff',

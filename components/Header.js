@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
     height: 60,
     padding: 15,
     backgroundColor: 'darkslateblue',
+    marginTop: 30
   },
   text: {
     color: '#fff',
